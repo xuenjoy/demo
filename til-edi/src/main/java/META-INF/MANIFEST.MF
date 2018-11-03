@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: bcprov-ext-jdk15on-1.59.jar httpclient-4.5.2.jar commons-l
+ ogging-1.2.jar fastjson-1.2.31.jar bcprov-jdk15on-1.52.jar stax-api-1
+ .0.1.jar log4j-1.2.17.jar commons-codec-1.9.jar commons-lang-2.6.jar 
+ ucanaccess-4.0.1.jar commons-lang3-3.4.jar hsqldb-2.3.1.jar poi-scrat
+ chpad-3.13.jar poi-ooxml-schemas-3.13.jar httpcore-4.4.4.jar jackcess
+ -encrypt-2.1.4.jar poi-3.13.jar jackcess-2.1.6.jar poi-ooxml-3.13.jar
+  xmlbeans-2.6.0.jar
+Main-Class: com.tilchina.edi.ui.MainWindow
+
